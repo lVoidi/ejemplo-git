@@ -1,5 +1,6 @@
 
-print("Rama ejemplo")
+def main():
+    print("Hola")
 
 
 
